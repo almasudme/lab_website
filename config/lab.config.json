@@ -1,0 +1,71 @@
+{
+  "lab_name": "FP University Research Lab",
+  "university": "FP University",
+  "tagline": "Frontiers in AI, Data, and Engineering Systems",
+  "pi": {
+    "name": "Ayesha SIddiqua Dina",
+    "email": "pi@example.edu",
+    "office": "Room 123, Engineering Building, FP University",
+    "photo": "/img/pi.jpg",
+    "bio": "PI of FP University Research Lab. Research in AI for systems, PLM knowledge graphs, and scientific ML."
+  },
+  "members": [
+    {
+      "name": "Elija Nidham",
+      "role": "Graduate Student",
+      "photo": "/img/student1.jpg"
+    },
+    {
+      "name": "Colby Edell",
+      "role": "Graduate Student",
+      "photo": "/img/student2.jpg"
+    },
+    {
+      "name": "Bismuch Placehlder",
+      "role": "Graduate Student",
+      "photo": "/img/student3.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs",
+      "summary": "Combines few-shot learning, prototypical networks, and transfer learning for robust intrusion detection in VANETs.",
+      "link": "#"
+    },
+    {
+      "title": "Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning",
+      "summary": "Applies LLMs with N-shot prompting to classify and characterize cybersecurity vulnerabilities.",
+      "link": "#"
+    }
+  ],
+  "publications": [
+    {
+      "title": "FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs",
+      "authors": "Dina, A. S.; Nidham, E.; Edell, C.; Placeholder, B.",
+      "venue": "Preprint, 2025",
+      "pdf": "#",
+      "code": "#",
+      "doi": "#"
+    },
+    {
+      "title": "Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning",
+      "authors": "Dina, A. S.; Nidham, E.; Edell, C.; Placeholder, B.",
+      "venue": "Preprint, 2025",
+      "pdf": "#",
+      "code": "#",
+      "doi": "#"
+    }
+  ],
+  "address_lines": [
+    "FP University",
+    "123 Research Way",
+    "City, ST 12345"
+  ],
+  "social": {
+    "x": "#",
+    "linkedin": "#",
+    "github": "https://github.com/almasudme",
+    "google_scholar": "#"
+  },
+  "year": 2025
+}
