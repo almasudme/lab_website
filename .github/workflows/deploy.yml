@@ -32,10 +32,9 @@ jobs:
 
       - name: Build & Export
         env:
-          # If this is a project page (user.github.io/repo), set the base path to /<repo>
-          # If deploying to a user/organization page (user.github.io), leave this empty.
-          NEXT_PUBLIC_BASE_PATH: "/${{ github.event.repository.name }}"
           NODE_ENV: production
+          # Base path for project page: https://<user>.github.io/lab_website/
+          NEXT_PUBLIC_BASE_PATH: "/lab_website"
         run: |
           npm run export
           touch out/.nojekyll
